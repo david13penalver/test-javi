@@ -3,3 +3,7 @@
 ## Microcommit 2
 
 Bla bla bla
+
+# Fix 1
+
+Bla bla bla
