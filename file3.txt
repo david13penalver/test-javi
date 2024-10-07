@@ -1,2 +1,5 @@
 fnwkbrwklw wr 
 cambio 1
+
+
+function hola() {return "hola"}
