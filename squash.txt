@@ -11,3 +11,7 @@ Bla bla bla
 # Title
 
 Bla bla bla
+
+# Another title
+
+Bla bla bla
